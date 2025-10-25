@@ -1,8 +1,5 @@
 # Credit Card Customer Segmentation Project
 
-**Authors:**
-- Atharva Raibagi (A006) (86092400006)
-- Kundan Kadam (A027) (86092400027)
 
 ## Summary
 
